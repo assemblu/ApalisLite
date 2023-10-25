@@ -1,6 +1,6 @@
 # Apalis
-Lite version. Cross-platform (x86-64, ARM Cortex-M and A, and RISC-V) digital signal processing library <br>
-Full version of Apalis detects platform on compile time, and comes with native assembly instructions for specific platforms to increase efficiency and latency. Also, has dynammic adaptation to floating point and fixed point calculations as well as ability of mixing them (although latter does not seem to be handy).<br>
+Lite version. Cross-platform (x86-64, ARM Cortex-M and A, and RISC-V) digital signal processing library. <br><br>
+Full version of Apalis detects platform on compile time, and comes with native assembly instructions for specific platforms to increase efficiency and latency. Also, has dynammic adaptation to floating point and fixed point calculations as well as ability of mixing them (although latter does not seem to be handy).<br><br>
 Some examples: https://soundcloud.com/polseq <br>
 <ul>
     <li>Advanced envelope controller</li>
